@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+   
+}
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2{
+    text-align: center;
+    
+}
+
+div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:red;
+    text-shadow: 2px 2px 2px yellow;
+    font-size: 20px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax{
+    background-image: url(nature1\ \(1\).jpeg);
+    width: 100%;
+    height: 100vh;
+}
+
+.html{
+    background-image: url(nature1\ \(2\).jpeg);
+    width: 100%;
+    height: 700px;
+}
+
+.css{
+    background-image: url(nature1\ \(3\).jpeg);
+    width: 100%;
+    height:100vh;
+}
+
+.result{
+    background-image: url(nature1\ \(4\).jpeg);
+    width: 100%;
+    height: 600px;
+}
+
+
